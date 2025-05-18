@@ -10,6 +10,9 @@ I'm a computer engineer, designer, photographer, gardener — and builder of wei
 
 - [📚 **Codes / Models / Datasets**](https://goker.dev/)  
   → My academic research base: NLP, SEO, AI experiments, and probably something cursed.
+  
+- [✓ **trustthe.dev**](https://trustthe.dev)  
+  → A minimal UI component that signs your frontend — for developers who version everything, including themselves.
 
 - [🎨 **Echoneo**](https://goker.art/echoneo)  
   → AI generative art system powered by prompt logic, historical aesthetics, and prehistoric sass.
@@ -26,9 +29,16 @@ I'm a computer engineer, designer, photographer, gardener — and builder of wei
 ---
 
 ### 🤖 Goker-ish GPT is Alive
-Ask me anything — tech, design, plants, philosophy, cats, existential dread, you name it.
 
-→ [Goker-ish GPT](https://goker.me) *(SOON)*
+My AI alter ego is now live — ask it anything from tech to plants, from design critiques to existential tangents.
+
+But its real superpower?  
+It reviews your photos like I would: with composition analysis, color scoring, human-toned feedback, and a slight vermillion obsession.
+
+→ [Goker-ish GPT](https://goker.me/photo-scoring-ai)
+
+Also available from all my domains:
+[**goker.dev**](https://goker.dev) • [**goker.me**](https://goker.me) • [**goker.art**](https://goker.art) • [**goker.in**](https://goker.in)
 
 ---
 
