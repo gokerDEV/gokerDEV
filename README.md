@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Goker
+## 👋 Hei there, I'm Goker
 
 I'm a computer engineer, designer, photographer, gardener — and builder of weird but beautiful things.
 
@@ -7,6 +7,11 @@ I'm a computer engineer, designer, photographer, gardener — and builder of wei
 ---
 
 ### ⚙️ Projects I Built, Broke, and Rebuilt
+
+- [🎨 **Natal Poster**](https://goker.art/natal)  
+  <a href="https://goker.art/natal">
+  <img src="https://goker.art/natal-poster-goker.png" alt="Custom Natal Chart Poster" width="250" align="right"></a>
+  → A generative art project that turns astrological data into a minimalist, interactive poster. All calculations are handled by a <strong>custom Python library</strong> [**"nataly"**](https://github.com/gokerDEV/nataly) to ensure technical precision. Features a QR code for real-time transits and an AI-powered interpreter.
 
 - [📚 **Codes / Models / Datasets**](https://goker.dev/)  
   → My academic research base: NLP, SEO, AI experiments, and probably something cursed.
@@ -17,7 +22,7 @@ I'm a computer engineer, designer, photographer, gardener — and builder of wei
 - [🎨 **Echoneo**](https://goker.art/echoneo)  
   → AI generative art system powered by prompt logic, historical aesthetics, and prehistoric sass.
 
-- [🧠 **API for Everything**](https://kodkafa.com/)  
+- [🧠 **API for Everything - KODKAFA**](https://kodkafa.com/)  
   → Modular, no-bullshit API service. Custom-built. Surprisingly stable.
 
 - [📈 **SEO Analyzer**](https://basepart.com/)  
